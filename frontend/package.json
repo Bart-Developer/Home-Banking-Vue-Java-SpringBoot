@@ -1,0 +1,47 @@
+{
+  "name": "hombanking",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^3.0.0-4",
+    "@popperjs/core": "^2.9.2",
+    "animate.css": "^4.1.1",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "core-js": "^3.6.5",
+    "cors-anywhere": "^0.4.4",
+    "express": "^4.17.1",
+    "register-service-worker": "^1.7.1",
+    "sass": "^1.37.5",
+    "sweetalert": "^2.1.2",
+    "vue": "^3.0.0",
+    "vue-loader-v16": "^16.0.0-beta.5.4",
+    "vue-router": "^4.0.0-0",
+    "vuex": "^4.0.0-0",
+    "w3-css": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-pwa": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^4.12.0",
+    "pug": "^3.0.2",
+    "pug-plain-loader": "^1.1.0",
+    "sass-loader": "^8.0.2"
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "author": "bartolome albarracin",
+  "license": "ISC"
+}
